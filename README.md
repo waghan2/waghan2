@@ -8,9 +8,9 @@ Na prática, gosto de **criar sistemas do zero** — já construí uma **impress
 💡 **Alguns dos meus focos atuais:**
 - Automação inteligente e controle de máquinas  
 - IA aplicada a projetos físicos (robos, sensores, atuadores, motores...)
-- Programação em **Python**, **C**, **C++**, **Flutter**, e **AutoHotkey v2**  
+- Programação em **Python**, **C**, **C++**, **Flutter**, e **AutoHotkey v2**, **etc, etc, etc**  
 - Desenvolvimento de **interfaces e sistemas autônomos**  
 
-
+💡**Em busca de novas oportunidades!! Procurando um projeto :P**,
 🎸 Além da tecnologia, a **música** é meu outro laboratório criativo — toco guitarra, violão e bateria.  
 
