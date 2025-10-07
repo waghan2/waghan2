@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá, eu sou Wagner Domingues  
 
-<!--
-**waghan2/waghan2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **mecatrônico** com formação em **gestão em segurança pública** e **machine learning & IA**.  
+Tenho uma trajetória multidisciplinar: já trabalhei com **manutenção de equipamentos médicos**, **perícia técnica**, e desenvolvi soluções com **inteligência artificial**. Na Polícia Científica do Paraná como Técnico de perícia.  
 
-Here are some ideas to get you started:
+Na prática, gosto de **criar sistemas do zero** — já construí uma **impressora 3D**, uma **CNC a laser** (com placa MKS e laser de 80W), e vários projetos de automação que unem **hardware, software e IA**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Alguns dos meus focos atuais:**
+- Automação inteligente e controle de máquinas  
+- IA aplicada a projetos físicos (robos, sensores, atuadores, motores...)
+- Programação em **Python**, **C**, **C++**, **Flutter**, e **AutoHotkey v2**  
+- Desenvolvimento de **interfaces e sistemas autônomos**  
+
+
+🎸 Além da tecnologia, a **música** é meu outro laboratório criativo — toco guitarra, violão e bateria.  
+
