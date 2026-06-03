@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Wagner Domingues  
 
 Sou **mecatrônico** com formação em **gestão em segurança pública** e **machine learning & IA**.  
-Tenho uma trajetória multidisciplinar: já trabalhei com **manutenção de equipamentos médicos**, **perícia técnica**, e desenvolvi soluções com **inteligência artificial**. Na Polícia Científica do Paraná como Técnico de perícia.  
+já trabalhei com **manutenção de equipamentos médicos**, **perícia técnica**, e desenvolvi soluções com **inteligência artificial**. Na Polícia Científica do Paraná como Técnico de perícia.  
 
 Na prática, gosto de **criar sistemas do zero** — já construí uma **impressora 3D**, uma **CNC a laser** (com placa MKS e laser de 80W), e vários projetos de automação que unem **hardware, software e IA**.  
 
